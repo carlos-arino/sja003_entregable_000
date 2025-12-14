@@ -29,7 +29,8 @@ Vamos a encender un entorno VS Code en la nube que ya tiene todo instalado.
 1. En tu nuevo repositorio, pulsa el botón verde **<> Code**.
 2. Ve a la pestaña **Codespaces**.
 3. Pulsa el botón verde **Create codespace on main**.
-4. **¡PACIENCIA!** Se abrirá una pestaña nueva. La primera vez tarda unos **3-5 minutos** en configurarse.
+4. **¡PACIENCIA!** Se abrirá una pestaña nueva. La primera vez tarda unos **5-7 minutos** en configurarse.
+5. Te pedirá si quieres instalar la Extensión PlatformIO. Acepta e instala. Si no lo haces tendrás que hacerlo manualmente.
 
 ## Paso 3: Verificación de Instalación (¡IMPORTANTE!)
 Antes de seguir, debemos asegurarnos de que el "cerebro" (PlatformIO) se ha instalado bien.
@@ -37,6 +38,7 @@ Antes de seguir, debemos asegurarnos de que el "cerebro" (PlatformIO) se ha inst
 1. Mira la barra lateral izquierda. Debes ver el icono de una **Cabeza de Alien** 👽. 
 2. Si te aparece un aviso abajo a la derecha pidiendo **"Reload Now"**, púlsalo.
 3. Si no sale el aviso ni el Alien, pulsa <kbd>F5</kbd> en tu navegador para recargar la página y espera 1 minuto más sin tocar nada.
+
 
 ## Paso 4: Activar el Simulador (Licencia Gratis)
 Para que Wokwi funcione, necesitas una licencia gratuita.
